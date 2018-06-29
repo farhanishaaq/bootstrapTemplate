@@ -1,0 +1,58 @@
+.bgimg {
+
+    background-image: url("../IMG/farhanimg.jpg");
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 650px;
+}
+.hearderset{
+
+   padding-top: 150px;
+    box-sizing: border-box;
+    outline-color: #040505;
+
+}
+
+.hearderset h2{
+
+    font-size: 50px;
+    outline-color: black;
+
+}
+
+.hearderset h1{
+    font-size: 75px;
+    font-weight: bold;
+    outline-color: black;
+}
+.ourservices {
+    padding: 100px 0px 60px;
+    height: 700px;
+
+}
+.ourservices h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+.rowsetting{
+
+    padding: 90px 0px;
+
+}
+.imgsetting{
+
+    border-radius: 50%;
+    height: 100px;
+   width: 100px;
+}
+.fa-shopping-cart{
+    margin-top: 20px;
+
+}
+.fa-lock{
+    margin-top: 20px;
+}
+.fa-desktop{
+    margin-top: 20px;
+}
